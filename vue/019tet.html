@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div id="d">
+			<inputwe
+				v-model='ds'
+			></inputwe>
+			<div>{{ ds }}<div>
+			<inputwe
+				v-model='dss'
+			></inputwe>
+			<div>{{ dss }}<div>
+		</div>
+	</body>
+	<script>
+		Vue.component("inputwe",{
+			porps: ['value'],
+			template: `<input
+				:value = 'value'
+				@input = "$emit('input',$event.target.value)"
+			></input>`
+		})
+		var vm = new Vue({
+			el: '#d',
+			data:{
+				ds: 'ds',
+				dss: 'fdfsdfsd'
+			}
+		})
+	</script>
+</html>

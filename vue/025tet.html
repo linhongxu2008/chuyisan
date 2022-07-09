@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div id="d">
+			<li
+			v-for="dd in ata"
+		>
+			{{ dd }}
+		</li>
+		</div>	
+	</body>
+	<script>
+		var vm = new Vue({
+			el: '#d',
+			data: {
+				ata: [
+					sad: 'dsd',
+					d:[
+						"dsdsd"
+					]
+				]
+			}
+		})
+	</script>
+</html>

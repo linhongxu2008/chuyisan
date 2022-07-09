@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<ddf v-if="d" id="ffd">
+			<button @click="qwq(vm.d)"></button>
+		</ddf>
+	</body>
+	<script>
+		Vue.component('ddf',{
+			template: '<div>dfsdfsdg</div>'
+		})
+		var vm = new Vue({
+			el: '#ffd',
+			data:{
+				d: 1
+			},
+			computed:{
+				
+			}
+		})
+	</script>
+</html>

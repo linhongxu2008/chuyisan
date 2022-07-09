@@ -1,0 +1,519 @@
+{
+  "libraries": [
+    {
+      "name": "com.mojang:netty:1.6",
+      "hash": "4b75825a06139752bd800d9e29c5fd55b8b1b1e4",
+      "type": "jar"
+    },
+    {
+      "name": "io.netty:netty-all:4.0.23.Final",
+      "hash": "0294104aaf1781d6a56a07d561e792c5d0c95f45",
+      "type": "jar"
+    },
+    {
+      "name": "oshi-project:oshi-core:1.1",
+      "hash": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+      "type": "jar"
+    },
+    {
+      "name": "commons-io:commons-io:2.4",
+      "hash": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.2.4",
+      "hash": "a60a5e993c98c864010053cb901b7eab25306568",
+      "type": "jar"
+    },
+    {
+      "name": "commons-logging:commons-logging:1.1.3",
+      "hash": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:jna:3.4.0",
+      "hash": "803ff252fedbd395baffd43b37341dc4a150a554",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.guava:guava:17.0",
+      "hash": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+      "hash": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.jinput:jinput:2.0.5",
+      "hash": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+      "type": "jar"
+    },
+    {
+      "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "hash": "63d216a9311cca6be337c1e458e587f99d382b84",
+      "type": "jar"
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.6",
+      "hash": "306816fb57cf94f108a43c95731b08934dcae15c",
+      "type": "jar"
+    },
+    {
+      "name": "commons-codec:commons-codec:1.9",
+      "hash": "9ce04e34240f674bc72680f8b843b1457383161a",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
+      "hash": "b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "hash": "c73b5636faf089d9f00e8732a829577de25237ee",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.commons:commons-compress:1.8.1",
+      "hash": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.jinput:jinput-platform:2.0.5",
+      "hash": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "hash": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
+      "hash": "697517568c68e78ae0b4544145af031c81082dfe",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "hash": "73e80d0794c39665aec3f62eee88ca91676674ef",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "hash": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
+      "hash": "d51a7c040a721d13efdfbd34f8b257b2df882ad0",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.3.2",
+      "hash": "90a3822c38ec8c996e84c16a3477ef632cbc87a3",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.httpcomponents:httpcore:4.3.2",
+      "hash": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.jutils:jutils:1.0.0",
+      "hash": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+      "hash": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:authlib:1.5.21",
+      "hash": "aefba0d5b53fbcb70860bc8046ab95d5854c07a5",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:platform:3.4.0",
+      "hash": "e3f70017be8100d3d6923f50b3d2ee17714e9c13",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "hash": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.httpcomponents:httpclient:4.3.3",
+      "hash": "18f4247ff4572a074444572cee34647c43e7c9c7",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:netty:1.8.8",
+      "hash": "0a796914d1c8a55b4da9f4a8856dd9623375d8bb",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:realms:1.7.59",
+      "hash": "9c6c59b742d8e038a15f64c1aa273a893a658424",
+      "type": "jar"
+    },
+    {
+      "name": "tv.twitch:twitch:6.5",
+      "hash": "320a2dfd18513a5f41b4e75729df684488cbd925",
+      "type": "jar"
+    },
+    {
+      "name": "tv.twitch:twitch-platform:6.5",
+      "hash": "9fdd0fd5aed0817063dcf95b69349a171f447ebd",
+      "type": "jar"
+    },
+    {
+      "name": "tv.twitch:twitch-external-platform:4.5",
+      "hash": "c3cde57891b935d41b6680a9c5e1502eeab76d86",
+      "type": "jar"
+    },
+    {
+      "name": "jline:jline:2.13",
+      "hash": "2d9530d0a25daffaffda7c35037b046b627bb171",
+      "type": "forge"
+    },
+    {
+      "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+      "hash": "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e",
+      "type": "forge"
+    },
+    {
+      "name": "com.typesafe:config:1.2.1",
+      "hash": "f771f71fdae3df231bcd54d5ca2d57f0bf93f467",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+      "hash": "dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-compiler:2.11.1",
+      "hash": "56ea2e6c025e0821f28d73ca271218b8dd04926a",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-library:2.11.1",
+      "hash": "0e11da23da3eabab9f4777b9220e60d44c1aab6a",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+      "hash": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-reflect:2.11.1",
+      "hash": "6580347e61cc7f8e802941e7fde40fa83b8badeb",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+      "hash": "b1cdd92bd47b1e1837139c1c53020e86bb9112ae",
+      "type": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+      "hash": "7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0",
+      "type": "forge"
+    },
+    {
+      "name": "com.mojang:realms:1.7.39",
+      "hash": "c282954ce2a3bc62812e0d41c05f179b3b5839d7",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.guava:failureaccess:1.0.1",
+      "hash": "1dcf1de382a0bf95a3d8b0849546c88bac1292c9",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:logging:1.0.0",
+      "hash": "f6ca3b2eee0b80b384e8ed93d368faecb82dfb9b",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:brigadier:1.0.18",
+      "hash": "c1ef1234282716483c92183f49bef47b1a89bfa9",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:javabridge:1.2.24",
+      "hash": "0c876796229b2ef5120f186eab5acc870699d3b9",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:blocklist:1.0.10",
+      "hash": "5c685c5ffa94c4cd39496c7184c1d122e515ecef",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:text2speech:1.12.4",
+      "hash": "1f618f522dbdd93218c270bcfd8f8dd84be31717",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:text2speech:1.12.4",
+      "hash": "7e37c535186a058d730ec03491182fae2efb57be",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "hash": "dc6826d636bf796b33a49038c354210e661bfc17",
+      "type": "jar"
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
+      "hash": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
+      "type": "jar"
+    },
+    {
+      "name": "commons-io:commons-io:2.11.0",
+      "hash": "a2503f302b11ebde7ebc3df41daebe0e4eea3689",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "hash": "e9115958773644e863332a6a06488d26f9e1fc9f",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "hash": "d8dcdc91066cae2d2d8279cb4a9f9f05d9525826",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.httpcomponents:httpcore:4.4.14",
+      "hash": "9dd1a631c082d92ecd4bd8fd4cf55026c720a8c1",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:jna:5.10.0",
+      "hash": "7cf4c87dd802db50721db66947aa237d7ad09418",
+      "type": "jar"
+    },
+    {
+      "name": "commons-logging:commons-logging:1.2",
+      "hash": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.17.0",
+      "hash": "bbd791e9c8c9421e45337c4fe0a10851c086e36c",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.17.0",
+      "hash": "bd7f6c0b9224dd214afb4e684957e2349b529a8d",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:authlib:3.3.39",
+      "hash": "289405e70c0917eaeac017f7fba9adb4427baa36",
+      "type": "jar"
+    },
+    {
+      "name": "org.slf4j:slf4j-api:1.8.0-beta4",
+      "hash": "83b0359d847ee053d745be7ec0d8e9e8a44304b4",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "hash": "6ac5bb88b44c43ea195a570aab059f63da004cd8",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.17.0",
+      "hash": "fe6e7a32c1228884b9691a744f953a55d0dd8ead",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.2",
+      "hash": "05359f3aa50d36352815fc662ea73e1c00d22170",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.8.9",
+      "hash": "8a432c1d6825781e21a02db2e2c33c5fde2833b9",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:patchy:2.2.10",
+      "hash": "da05971b07cbb379d002cf7eaec6a2048211fefc",
+      "type": "jar"
+    },
+    {
+      "name": "com.ibm.icu:icu4j:70.1",
+      "hash": "dfa3a1fbc55bf5db8c6e79fc0935ac7ab1202950",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.2",
+      "hash": "8ad6294407e15780b43e84929c40e4c5e997972e",
+      "type": "jar"
+    },
+    {
+      "name": "commons-codec:commons-codec:1.15",
+      "hash": "49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "hash": "338b25b99da3ba5f441f6492f2ce2a9c608860ed",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.12.0",
+      "hash": "c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e",
+      "type": "jar"
+    },
+    {
+      "name": "com.github.oshi:oshi-core:5.8.5",
+      "hash": "1d0ec654d820741327f5a9229d513732a4b7ce50",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:datafixerupper:4.1.27",
+      "hash": "0a02c43824ce57c3f7a7d7e744f0d99a040398b5",
+      "type": "jar"
+    },
+    {
+      "name": "it.unimi.dsi:fastutil:8.5.6",
+      "hash": "76f95700418a68fbc4ac050525261f05dc681ca1",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "hash": "3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.commons:commons-compress:1.21",
+      "hash": "4ec95b60d4e86b5c95a0e919cb172a0af98011ef",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "hash": "ee8e57a79300f78294576d87c4a587f8c99402e2",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "hash": "2b772a102b0a11ee5f2109a5b136f4dc7c630827",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "hash": "fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "hash": "d3ad4df38e400b8afba1de63f84338809399df5b",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "hash": "811f705cbb29e8ae8d60bdf8fdd38c0c123ad3ef",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.httpcomponents:httpclient:4.5.13",
+      "hash": "e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada",
+      "type": "jar"
+    },
+    {
+      "name": "io.netty:netty-all:4.1.68.Final",
+      "hash": "b8266a3c93c1c051109f71d3449e5dcd5d60b333",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:jna-platform:5.10.0",
+      "hash": "fbed7d9669dba47714ad0d4f4454290a997aee69",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.guava:guava:31.0.1-jre",
+      "hash": "119ea2b2bc205b138974d351777b20f02b92704b",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "hash": "ec20a7d42a2438528fca87e60b1705f1e2339ddb",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:blocklist:1.0.6",
+      "hash": "7039c2c6209064ee4132cea7a0737b63b92c725e",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:patchy:2.1.6",
+      "hash": "ce112c16c6275fdfff2d30208533ec906a191f71",
+      "type": "jar"
+    },
+    {
+      "name": "com.github.oshi:oshi-core:5.8.2",
+      "hash": "3a4c610d5991654009653e55b3204065441e2f0d",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:jna:5.9.0",
+      "hash": "8f503e6d9b500ceff299052d6be75b38c7257758",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.dev.jna:jna-platform:5.9.0",
+      "hash": "c535a5bda553d7d7690356c825010da74b2671b5",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.14.1",
+      "hash": "312b4d91b21160b9fab43600fa787f31e8cab930",
+      "type": "jar"
+    },
+    {
+      "name": "com.ibm.icu:icu4j:69.1",
+      "hash": "ff666ac55986650893aacb9e2e0003538e9799c0",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:datafixerupper:4.0.26",
+      "hash": "ebd6690f33871ccee9b6132c6480668ee2e35020",
+      "type": "jar"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.8.8",
+      "hash": "431fc3cbc0ff81abdbfde070062741089c3ba874",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:authlib:3.2.38",
+      "hash": "7bba19e34be22fded9ceb409ca1e8fb7525daf55",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.14.1",
+      "hash": "cd8858fbbde69f46bce8db1152c18a43328aae78",
+      "type": "jar"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.14.1",
+      "hash": "9141212b8507ab50a45525b545b39d224614528b",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:text2speech:1.11.3",
+      "hash": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
+      "type": "jar"
+    }
+  ]
+}

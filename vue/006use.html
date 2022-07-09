@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<ol id="sv">
+			<qq-dw
+				v-for="fw in wf"
+				v-bind:hello="fw"
+				v-bind:key="fw.id"
+			></qq-dw>
+		</ol>
+		<script>
+			Vue.component('qq-dw',{
+				props: ['hello'],
+				template: '<li>{{ hello.wef }}</li>'
+			})
+			var frw = new Vue({
+				el: '#sv',
+				data: {
+					wf:[
+						{id: 0, wef: 'dssdsd'},
+						{id: 1, wef: 'dssdsd'}
+					]
+				}
+			})
+		</script>
+	</body>
+</html>

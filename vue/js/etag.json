@@ -1,0 +1,1382 @@
+{
+  "eTag": [
+    {
+      "url": "https://launcher.mojang.com/v1/objects/dd53796d2de48d1dbfe5db8c1daf9c79337182a4/instrument.dll",
+      "eTag": "\"4964bd6eecdf242ff1afb9bb7cedc559\"",
+      "hash": "dd53796d2de48d1dbfe5db8c1daf9c79337182a4",
+      "local": 1648977130949,
+      "remote": "Fri, 21 Sep 2018 11:56:41 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4384ca5e4d32f7dd86d8baddd1e690730d74e694/javaws.policy",
+      "eTag": "\"9107d028bd329dbfe4c1f19015ed6d80\"",
+      "hash": "4384ca5e4d32f7dd86d8baddd1e690730d74e694",
+      "local": 1648977129718,
+      "remote": "Fri, 21 Sep 2018 11:52:31 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0ae4a5bda2a6d628fac51462390b503c99509fdc/splash2x.gif",
+      "eTag": "\"cb81fed291361d1dd745202659857b1b\"",
+      "hash": "0ae4a5bda2a6d628fac51462390b503c99509fdc",
+      "local": 1648977133377,
+      "remote": "Fri, 21 Sep 2018 11:52:56 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/42b42e6e1d2cb2d781f2226bde612ce519b29bc8/messages_de.properties",
+      "eTag": "\"a795b3b67b1670a9ec0410394f0a57b9\"",
+      "hash": "42b42e6e1d2cb2d781f2226bde612ce519b29bc8",
+      "local": 1648977134940,
+      "remote": "Fri, 21 Sep 2018 11:55:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6190c336740bc0b58ccaae8e52f3ef855ad36021/cursors.properties",
+      "eTag": "\"3cc3840cb50bd630f501796346b52692\"",
+      "hash": "6190c336740bc0b58ccaae8e52f3ef855ad36021",
+      "local": 1648977135595,
+      "remote": "Fri, 21 Sep 2018 11:55:22 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7f892ddfe5b8ccdce32138c2c6a396e468ae60fb/java.security",
+      "eTag": "\"c150990e1682601aad5264c833064a8e\"",
+      "hash": "7f892ddfe5b8ccdce32138c2c6a396e468ae60fb",
+      "local": 1648977129597,
+      "remote": "Fri, 21 Sep 2018 11:55:45 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8bacd462cce4cdcb0bd8898f9781c0c85c069f01/jsoundds.dll",
+      "eTag": "\"2125ec1aadcd45bec8068010c44b8833\"",
+      "hash": "8bacd462cce4cdcb0bd8898f9781c0c85c069f01",
+      "local": 1648977127924,
+      "remote": "Fri, 21 Sep 2018 11:56:31 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/05a63d05f11eecbeb60c19c92972b7855d65eabb/javafx_font_t2k.dll",
+      "eTag": "\"7f61ef7c60b25e537e67e24e6863ed7e\"",
+      "hash": "05a63d05f11eecbeb60c19c92972b7855d65eabb",
+      "local": 1648977129839,
+      "remote": "Fri, 21 Sep 2018 11:56:55 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/97eb45c101514b997631d12e42863daff0734176/fxplugins.dll",
+      "eTag": "\"2a570ba83c753d4bf423326a6ef92636\"",
+      "hash": "97eb45c101514b997631d12e42863daff0734176",
+      "local": 1648977128884,
+      "remote": "Fri, 21 Sep 2018 11:56:15 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a79a9122ced876478f4217d33592c45051585662/verify.dll",
+      "eTag": "\"ea406ae60a58f3df25f71607cc63e36f\"",
+      "hash": "a79a9122ced876478f4217d33592c45051585662",
+      "local": 1648977131384,
+      "remote": "Fri, 21 Sep 2018 11:56:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9886a197f2643fa0c7d182f4f90bfb244cca7ba1/jvm.dll",
+      "eTag": "\"2ed1e40662f1d208e2d7a49fa32aa9a6\"",
+      "hash": "9886a197f2643fa0c7d182f4f90bfb244cca7ba1",
+      "local": 1648977134132,
+      "remote": "Fri, 21 Sep 2018 11:56:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c44ecbf7cff86de90421e4056a41339f8091f454/jp2launcher.exe",
+      "eTag": "\"212dcd03d004669d38a7c71451d9139f\"",
+      "hash": "c44ecbf7cff86de90421e4056a41339f8091f454",
+      "local": 1648977130539,
+      "remote": "Fri, 21 Sep 2018 11:56:15 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2a168e4dd5f0385ccde79ce9edf6643e6d1cbc97/sunec.jar",
+      "eTag": "\"65e841cbff7777c462c064a105cd6693\"",
+      "hash": "2a168e4dd5f0385ccde79ce9edf6643e6d1cbc97",
+      "local": 1648977133725,
+      "remote": "Fri, 21 Sep 2018 11:54:31 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/64738ddae6b8109c4984b56ea38bc558d7d5faf0/classlist",
+      "eTag": "\"7516eac057a7eb619d0aea922a441a0c\"",
+      "hash": "64738ddae6b8109c4984b56ea38bc558d7d5faf0",
+      "local": 1648977132400,
+      "remote": "Fri, 21 Sep 2018 11:55:45 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/b9d7b2481e80dc645691f1219eb4c8b223822702/plugin.jar",
+      "eTag": "\"aa2eaf41de613962cb467d37e8f16fb5\"",
+      "hash": "b9d7b2481e80dc645691f1219eb4c8b223822702",
+      "local": 1648977134132,
+      "remote": "Fri, 21 Sep 2018 11:52:10 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/3b5f7e4ec437d79048af35094290577f483b3fe1/sound.properties",
+      "eTag": "\"b1a9f5fe6052b9a5ccc508f01bed65bd\"",
+      "hash": "3b5f7e4ec437d79048af35094290577f483b3fe1",
+      "local": 1648977127930,
+      "remote": "Tue, 14 Aug 2018 13:12:26 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c059ecd89de58dc0db988005158cc3c4e4b1b799/Welcome.html",
+      "eTag": "\"42f0779993ee229cac7b9e08af890e99\"",
+      "hash": "c059ecd89de58dc0db988005158cc3c4e4b1b799",
+      "local": 1648977128527,
+      "remote": "Fri, 21 Sep 2018 11:55:15 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c1e16f80dc0b1f1a591cecf3cbab4ba5e47492f4/messages.properties",
+      "eTag": "\"847ba23eae7c638083f48d4cbd1bbeaa\"",
+      "hash": "c1e16f80dc0b1f1a591cecf3cbab4ba5e47492f4",
+      "local": 1648977133297,
+      "remote": "Fri, 21 Sep 2018 11:55:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/b5d4501d04c5cbb0ed1f54a6f97dd05465583069/messages_sv.properties",
+      "eTag": "\"768a7b99f3179e17036d8f6442fa019e\"",
+      "hash": "b5d4501d04c5cbb0ed1f54a6f97dd05465583069",
+      "local": 1648977134405,
+      "remote": "Fri, 21 Sep 2018 11:55:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/dc5504380a5f8c465dc45afa94004388d136751f/meta-index",
+      "eTag": "\"ab84685c58de848f3f0f375ba5c8b050\"",
+      "hash": "dc5504380a5f8c465dc45afa94004388d136751f",
+      "local": 1648977136696,
+      "remote": "Fri, 21 Sep 2018 11:55:28 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/mc/assets/1.8/e264980ad255aad2174cbe4d674c102474ae5202/1.8.json",
+      "eTag": "W/\"171ba-15dac81bd10\"",
+      "hash": "e264980ad255aad2174cbe4d674c102474ae5202",
+      "local": 1649056055430,
+      "remote": "Fri, 04 Aug 2017 09:09:30 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/fcc5ca2fd3f45cac3434b480fa3ce00007e96529/CIEXYZ.pf",
+      "eTag": "\"ea52067b7c30e3f525c242cf234da342\"",
+      "hash": "fcc5ca2fd3f45cac3434b480fa3ce00007e96529",
+      "local": 1648977133724,
+      "remote": "Tue, 14 Aug 2018 13:13:24 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c063bef6384320195a92d3c9ea304be2492c4ed3/eula.dll",
+      "eTag": "\"cd923d33065e83927813bc9816e6b468\"",
+      "hash": "c063bef6384320195a92d3c9ea304be2492c4ed3",
+      "local": 1648977130783,
+      "remote": "Fri, 21 Sep 2018 11:56:31 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a9a865968ad8d6e0c6c58182fa51afd55aaf9f45/default.jfc",
+      "eTag": "\"4778ff0bee2eb7b22c4dc0e4a7681478\"",
+      "hash": "a9a865968ad8d6e0c6c58182fa51afd55aaf9f45",
+      "local": 1648977135154,
+      "remote": "Fri, 21 Sep 2018 11:55:42 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/035bbd215838b4e0184f459aee0b6fba4ad02acc/keytool.exe",
+      "eTag": "\"494b0d4dbf309f0b22ed461ed559a4b8\"",
+      "hash": "035bbd215838b4e0184f459aee0b6fba4ad02acc",
+      "local": 1648977133101,
+      "remote": "Fri, 21 Sep 2018 11:56:48 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/ad0ef6226e12090c91a56488d2b8cc5f666f6201/java.exe",
+      "eTag": "\"ccdb856ac8503dcf77a3aef21ecf7ab7\"",
+      "hash": "ad0ef6226e12090c91a56488d2b8cc5f666f6201",
+      "local": 1648977129838,
+      "remote": "Fri, 21 Sep 2018 11:56:55 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c18be3071eb40c577a79700925271e23647e3949/javacpl.exe",
+      "eTag": "\"9ca43a526e880755f9e1a340a541d211\"",
+      "hash": "c18be3071eb40c577a79700925271e23647e3949",
+      "local": 1648977129478,
+      "remote": "Fri, 21 Sep 2018 11:56:45 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e673119ab1d16dd0daa55975c7f9b08980883d25/servertool.exe",
+      "eTag": "\"adb3383173d087263f3865f341ef4b64\"",
+      "hash": "e673119ab1d16dd0daa55975c7f9b08980883d25",
+      "local": 1648977133601,
+      "remote": "Fri, 21 Sep 2018 11:55:54 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0ab0fe86bcccf4e081cb33d0be9ff70f51d8c570/gstreamer-lite.dll",
+      "eTag": "\"895794185bdeb8748b0a886567c73a6a\"",
+      "hash": "0ab0fe86bcccf4e081cb33d0be9ff70f51d8c570",
+      "local": 1648977131071,
+      "remote": "Fri, 21 Sep 2018 11:56:04 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/cdb017f7c34bea0802bc5ea5583aef721ed99c49/LucidaTypewriterBold.ttf",
+      "eTag": "\"6e7b5d0cfa2ef1dc524108d591826726\"",
+      "hash": "cdb017f7c34bea0802bc5ea5583aef721ed99c49",
+      "local": 1648977136619,
+      "remote": "Tue, 14 Aug 2018 13:13:05 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/ae813939f9a52e7b59927f531ce8757636ff8082/win32_CopyDrop32x32.gif",
+      "eTag": "\"89cdf623e11aaf0407328fd3ada32c07\"",
+      "hash": "ae813939f9a52e7b59927f531ce8757636ff8082",
+      "local": 1648977136254,
+      "remote": "Fri, 21 Sep 2018 11:54:33 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/fd17cd6ea463ccaaed40576f53c8ef04139f5540/policytool.exe",
+      "eTag": "\"84e87d12f65bf40adfcf3d674ca04aaf\"",
+      "hash": "fd17cd6ea463ccaaed40576f53c8ef04139f5540",
+      "local": 1648977134057,
+      "remote": "Fri, 21 Sep 2018 11:56:12 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f7d0aac9a440e1177fd738b4a6a1cb4144496d18/jfxswt.jar",
+      "eTag": "\"68704dafee92b51b1ee8c12230298d81\"",
+      "hash": "f7d0aac9a440e1177fd738b4a6a1cb4144496d18",
+      "local": 1648977135489,
+      "remote": "Fri, 21 Sep 2018 11:52:33 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e30bac746ef2e2388254cddc28343a615deb94af/jawt.dll",
+      "eTag": "\"4390753e2536e4c15e3142637cdde13f\"",
+      "hash": "e30bac746ef2e2388254cddc28343a615deb94af",
+      "local": 1648977128332,
+      "remote": "Fri, 21 Sep 2018 11:56:07 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4f748750831a7719440dff5457f4d207d0f24d21/LucidaBrightDemiBold.ttf",
+      "eTag": "\"cfa95d448a8ec50a2145577de217b8b2\"",
+      "hash": "4f748750831a7719440dff5457f4d207d0f24d21",
+      "local": 1648977138103,
+      "remote": "Tue, 14 Aug 2018 13:12:58 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f38faf69dd98f8847723f44f54cebe827d0164cd/t2k.dll",
+      "eTag": "\"4ce312634612f2e68c40e665766f7c3d\"",
+      "hash": "f38faf69dd98f8847723f44f54cebe827d0164cd",
+      "local": 1648977133092,
+      "remote": "Fri, 21 Sep 2018 11:56:02 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9eaea0911d89d63e39e95f2e2116eaec7e0bb91e/sRGB.pf",
+      "eTag": "\"1d3fda2edb4a89ab60a23c5f7c7d81dd\"",
+      "hash": "9eaea0911d89d63e39e95f2e2116eaec7e0bb91e",
+      "local": 1648977132806,
+      "remote": "Mon, 13 Aug 2018 12:58:05 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e42cd79e58ea46c0346a8d448fda94cc80d679e3/deploy.dll",
+      "eTag": "\"4e83d230651d14bc503c5c944859c3ae\"",
+      "hash": "e42cd79e58ea46c0346a8d448fda94cc80d679e3",
+      "local": 1648977129838,
+      "remote": "Fri, 21 Sep 2018 11:56:42 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a5c978a26faf458c6eefbbbd1f6d30a666dcd424/sunmscapi.dll",
+      "eTag": "\"4dddacb9be9d32116bf89ffd45f45ed4\"",
+      "hash": "a5c978a26faf458c6eefbbbd1f6d30a666dcd424",
+      "local": 1648977133171,
+      "remote": "Fri, 21 Sep 2018 11:56:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4a757c23f2942bd802a4f80235131146d9267750/calendars.properties",
+      "eTag": "\"fcdd9d2937e852b1bdfc405cf69be7c5\"",
+      "hash": "4a757c23f2942bd802a4f80235131146d9267750",
+      "local": 1648977131727,
+      "remote": "Tue, 14 Aug 2018 13:11:05 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/024340f1f821171cae8fdfd4113a5a79a69e6e87/w2k_lsa_auth.dll",
+      "eTag": "\"c6bcfc6e4e9ef7401c35759758b2f630\"",
+      "hash": "024340f1f821171cae8fdfd4113a5a79a69e6e87",
+      "local": 1648977131308,
+      "remote": "Fri, 21 Sep 2018 11:56:53 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/191c3be4f39b0f10faa53803c86babdc4b32f580/pack200.exe",
+      "eTag": "\"d9d257573e1dc5322059451050aeacd5\"",
+      "hash": "191c3be4f39b0f10faa53803c86babdc4b32f580",
+      "local": 1648977131161,
+      "remote": "Fri, 21 Sep 2018 11:55:57 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e4bd140b1c32f4b29bb6d258a654123d293c8fac/nashorn.jar",
+      "eTag": "\"d1b2a627fe8f79cf1fb3d2fefc58f8ad\"",
+      "hash": "e4bd140b1c32f4b29bb6d258a654123d293c8fac",
+      "local": 1648977134391,
+      "remote": "Fri, 21 Sep 2018 11:54:18 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/eccdb240a815b2a83a502749339b27bb8669965b/jvm.hprof.txt",
+      "eTag": "\"4f57824a3cbc5771baa63c696763fcc5\"",
+      "hash": "eccdb240a815b2a83a502749339b27bb8669965b",
+      "local": 1648977135199,
+      "remote": "Tue, 14 Aug 2018 13:11:22 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/ec30d017e143a99bb1c1327e668accbae499551f/prism_d3d.dll",
+      "eTag": "\"abc81c2d3a68db06af3f35bae595d82d\"",
+      "hash": "ec30d017e143a99bb1c1327e668accbae499551f",
+      "local": 1648977132821,
+      "remote": "Fri, 21 Sep 2018 11:55:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0b57e8c0332d14bc4930a92d0080f1f1e2abf706/javafx_iio.dll",
+      "eTag": "\"331bdec0ee332e904059a97074c9c89b\"",
+      "hash": "0b57e8c0332d14bc4930a92d0080f1f1e2abf706",
+      "local": 1648977130692,
+      "remote": "Fri, 21 Sep 2018 11:56:48 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/b82869d9efb0c7f5a0b6832fb75d5a92f2f3b4f0/JAWTAccessBridge-64.dll",
+      "eTag": "\"5360c3d2590498eba3cc94bc7ae97a2b\"",
+      "hash": "b82869d9efb0c7f5a0b6832fb75d5a92f2f3b4f0",
+      "local": 1648977131072,
+      "remote": "Fri, 21 Sep 2018 11:56:09 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/779de01c4ba34a36c6b42d15116d2a50dee18264/management-agent.jar",
+      "eTag": "\"b41f050159d074e551e6eef881a9ef44\"",
+      "hash": "779de01c4ba34a36c6b42d15116d2a50dee18264",
+      "local": 1648977135931,
+      "remote": "Fri, 21 Sep 2018 11:55:37 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/64a65d7b94d7153d20957ef6d06bebb4dd0f48e4/LucidaSansRegular.ttf",
+      "eTag": "\"7626d6a2a4536a1c918f041acb1b0d90\"",
+      "hash": "64a65d7b94d7153d20957ef6d06bebb4dd0f48e4",
+      "local": 1648977136316,
+      "remote": "Tue, 14 Aug 2018 13:13:04 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/de7d39a6e6748e9f47e842c9da90f515921c222c/messages_zh_CN.properties",
+      "eTag": "\"d77c9a522d0eaa09a314360aa87232ef\"",
+      "hash": "de7d39a6e6748e9f47e842c9da90f515921c222c",
+      "local": 1648977134675,
+      "remote": "Fri, 21 Sep 2018 11:55:41 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8c963b9a03288582946a11fb83fdf1aee2746f1d/javaws.exe",
+      "eTag": "\"1a6bff1d027e901b5717af97937d5036\"",
+      "hash": "8c963b9a03288582946a11fb83fdf1aee2746f1d",
+      "local": 1648977130325,
+      "remote": "Fri, 21 Sep 2018 11:56:13 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f90331df1e5badeadc501d8dd70714c62a920204/README",
+      "eTag": "\"0f1123976b959ac5e8b89eb8c245c4bd\"",
+      "hash": "f90331df1e5badeadc501d8dd70714c62a920204",
+      "local": 1648977129422,
+      "remote": "Mon, 13 Aug 2018 12:34:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/fc830993bd1e1054896caaeaa2f27e350c728332/ssvagent.exe",
+      "eTag": "\"f94ec31130572f9a57adf7bf368c1766\"",
+      "hash": "fc830993bd1e1054896caaeaa2f27e350c728332",
+      "local": 1648977133457,
+      "remote": "Fri, 21 Sep 2018 11:56:39 GMT"
+    },
+    {
+      "url": "https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json",
+      "eTag": "\"822758babab005f6a146f00632995871\"",
+      "hash": "ddc568a50326d2cf85765abb61e752aab191c366",
+      "local": 1648977127436,
+      "remote": "Thu, 20 Feb 2020 18:10:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6592615d018d3e82771e87cbc594194c7b70e2ba/msvcr100.dll",
+      "eTag": "\"f3b0d18e42f9cc3fc59122f0810635e1\"",
+      "hash": "6592615d018d3e82771e87cbc594194c7b70e2ba",
+      "local": 1648977132400,
+      "remote": "Fri, 21 Sep 2018 11:56:34 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2c9f1663fa025c81879b00fe4ade07979a40608d/prism_common.dll",
+      "eTag": "\"87042731861d4c40fbd04aab0c0f3d1c\"",
+      "hash": "2c9f1663fa025c81879b00fe4ade07979a40608d",
+      "local": 1648977133600,
+      "remote": "Fri, 21 Sep 2018 11:56:03 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/764340de8a563be13420f2e5cf1bcdb1a4931d63/jsdt.dll",
+      "eTag": "\"00e8034db94facf8fa804077dc1845e5\"",
+      "hash": "764340de8a563be13420f2e5cf1bcdb1a4931d63",
+      "local": 1648977131074,
+      "remote": "Fri, 21 Sep 2018 11:56:53 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/forge/minecraft/null",
+      "eTag": "W/\"2-l9Fw4VUO7kr8CvBlt4zaMCqXZ0w\"",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "local": 1649228648641
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/149ee487208e36ac8210c28e0dd383bb845b0c65/decora_sse.dll",
+      "eTag": "\"d0b8622415d5a2aebb14844a5bbd61d4\"",
+      "hash": "149ee487208e36ac8210c28e0dd383bb845b0c65",
+      "local": 1648977128971,
+      "remote": "Fri, 21 Sep 2018 11:56:36 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6fc7e7ae45ad1db6b4da2b104b3a6b4214e09ba5/jfxrt.jar",
+      "eTag": "\"a05003654b381e4fdbbea1f8d29f57ed\"",
+      "hash": "6fc7e7ae45ad1db6b4da2b104b3a6b4214e09ba5",
+      "local": 1648977137164,
+      "remote": "Fri, 21 Sep 2018 11:55:35 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7dc9be0b1e5293d46c63976c60f038f7978a49bb/splashscreen.dll",
+      "eTag": "\"17567a185129ebe69439384ba0b45363\"",
+      "hash": "7dc9be0b1e5293d46c63976c60f038f7978a49bb",
+      "local": 1648977134000,
+      "remote": "Fri, 21 Sep 2018 11:56:38 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9a2bb78f6796bed3935014a381f243b7b747d154/blacklisted.certs",
+      "eTag": "\"cc8f98608c3a0c64f6a98751c7baea59\"",
+      "hash": "9a2bb78f6796bed3935014a381f243b7b747d154",
+      "local": 1648977129537,
+      "remote": "Fri, 21 Sep 2018 11:55:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/986f5122267d1a13f52326173030c2235d4b86ba/npjp2.dll",
+      "eTag": "\"dfca7b04245e4e9751b854b306e7e93b\"",
+      "hash": "986f5122267d1a13f52326173030c2235d4b86ba",
+      "local": 1648977132400,
+      "remote": "Fri, 21 Sep 2018 11:56:54 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9a6a4c086e48b9e615b72b6bbebb3c724d178ff4/messages_ja.properties",
+      "eTag": "\"40a6bc8fe2178fb165834e5704322fb6\"",
+      "hash": "9a6a4c086e48b9e615b72b6bbebb3c724d178ff4",
+      "local": 1648977134881,
+      "remote": "Fri, 21 Sep 2018 11:55:39 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/mc/game/version_manifest.json",
+      "eTag": "W/\"23431-180e2a05e7d\"",
+      "hash": "24b98720ca230f4dae9e15a48cd02ba47ac6b597",
+      "local": 1653123452426,
+      "remote": "Fri, 20 May 2022 18:00:02 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/98172c693904366376021173fadbdb4d6dc94c2a/release",
+      "eTag": "\"079f189609319548949a6541bbb58f90\"",
+      "hash": "98172c693904366376021173fadbdb4d6dc94c2a",
+      "local": 1648977128240,
+      "remote": "Fri, 21 Sep 2018 11:55:17 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/cbdf77b2f30ae841995da7cde12707184fe9a5c3/glib-lite.dll",
+      "eTag": "\"f2aedcf85cad6f4c092abc51fb442026\"",
+      "hash": "cbdf77b2f30ae841995da7cde12707184fe9a5c3",
+      "local": 1648977129908,
+      "remote": "Fri, 21 Sep 2018 11:55:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a6876197b89d2627b7b0526bb63710b57fc81496/kinit.exe",
+      "eTag": "\"4c4360071fd239a9ec1c65a357ec17ce\"",
+      "hash": "a6876197b89d2627b7b0526bb63710b57fc81496",
+      "local": 1648977131074,
+      "remote": "Fri, 21 Sep 2018 11:56:35 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/48fc081505abce11f1ae681f27e0666e5ffadd3c/jvm.cfg",
+      "eTag": "\"deb4323f5f28c41253941b0d0924a49d\"",
+      "hash": "48fc081505abce11f1ae681f27e0666e5ffadd3c",
+      "local": 1648977131087,
+      "remote": "Fri, 21 Sep 2018 11:55:43 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f82e9a688553c100ecb98412b985807ed56dff5d/LucidaBrightDemiItalic.ttf",
+      "eTag": "\"77bdf08c70d7d47d06c2e34bbbeef866\"",
+      "hash": "f82e9a688553c100ecb98412b985807ed56dff5d",
+      "local": 1648977136619,
+      "remote": "Tue, 14 Aug 2018 13:12:59 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/3c8c8b47aef7c73508e0a15c699ce11bd9c0b7a1/zipfs.jar",
+      "eTag": "\"577bff07383c779a991810fba874958b\"",
+      "hash": "3c8c8b47aef7c73508e0a15c699ce11bd9c0b7a1",
+      "local": 1648977136766,
+      "remote": "Fri, 21 Sep 2018 11:54:24 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/02e8d296e3b18a450f1ed1547cbf2b7275664c9a/hijrah-config-umalqura.properties",
+      "eTag": "\"0d373d70de8b3656653163f7d85a452d\"",
+      "hash": "02e8d296e3b18a450f1ed1547cbf2b7275664c9a",
+      "local": 1648977136513,
+      "remote": "Tue, 14 Aug 2018 13:11:15 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6d43c2c9fd9a8d52c43662b76f9b8c137a57178c/jabswitch.exe",
+      "eTag": "\"82717662481db19f4f71bd1605497fa4\"",
+      "hash": "6d43c2c9fd9a8d52c43662b76f9b8c137a57178c",
+      "local": 1648977127939,
+      "remote": "Fri, 21 Sep 2018 11:56:37 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/bc1b23eb82a932f0a661bee1d12bedf7bce684e6/charsets.jar",
+      "eTag": "\"616ed05a41db7644d66409f4f85bcfb7\"",
+      "hash": "bc1b23eb82a932f0a661bee1d12bedf7bce684e6",
+      "local": 1648977131088,
+      "remote": "Fri, 21 Sep 2018 11:55:33 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/20e7aec75f6d036d504277542e507eb7dc24aae8/splash.gif",
+      "eTag": "\"249053609eaf5b17ddd42149fc24c469\"",
+      "hash": "20e7aec75f6d036d504277542e507eb7dc24aae8",
+      "local": 1648977134615,
+      "remote": "Fri, 21 Sep 2018 11:53:03 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/69042ff1b14165db19c9d728614639dec16d6a31/jmxremote.access",
+      "eTag": "\"f57a72ce022a25dc0f9b24ba0faa5ea3\"",
+      "hash": "69042ff1b14165db19c9d728614639dec16d6a31",
+      "local": 1648977136191,
+      "remote": "Tue, 14 Aug 2018 13:12:50 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/dcc6f7ff858dfd439bff596360654c78c2dd45ac/deploy.jar",
+      "eTag": "\"c29d0c4fcb4946d6676e5faac3c7c64c\"",
+      "hash": "dcc6f7ff858dfd439bff596360654c78c2dd45ac",
+      "local": 1648977133900,
+      "remote": "Fri, 21 Sep 2018 11:53:42 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c53dc0de3701b86d92e33537da7ed5eab549b6b5/deployJava1.dll",
+      "eTag": "\"08cede3463087e43b00cc138d51347b4\"",
+      "hash": "c53dc0de3701b86d92e33537da7ed5eab549b6b5",
+      "local": 1648977130872,
+      "remote": "Fri, 21 Sep 2018 11:56:50 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8a87c5b9090e192c89340a6622eea9b85d587ad5/java.dll",
+      "eTag": "\"65f291955c77432ca098501b1220f610\"",
+      "hash": "8a87c5b9090e192c89340a6622eea9b85d587ad5",
+      "local": 1648977128578,
+      "remote": "Fri, 21 Sep 2018 11:55:58 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8632655610e37a762184d362f7a12beaad098cc5/management.properties",
+      "eTag": "\"ca720f2f424f9afecb5200ca3677039f\"",
+      "hash": "8632655610e37a762184d362f7a12beaad098cc5",
+      "local": 1648977134386,
+      "remote": "Tue, 14 Aug 2018 13:12:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2bd90f09c8deb64b1729d6b8173c78f9e9cab27b/LINEAR_RGB.pf",
+      "eTag": "\"a5557ef032616c51f8e158f56abc3feb\"",
+      "hash": "2bd90f09c8deb64b1729d6b8173c78f9e9cab27b",
+      "local": 1648977135076,
+      "remote": "Tue, 14 Aug 2018 13:13:25 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/185e988bdc2c6548373648913de2e711ae5fb732/jsse.jar",
+      "eTag": "\"bb209b76a8728bbae660ef7e7c2626c0\"",
+      "hash": "185e988bdc2c6548373648913de2e711ae5fb732",
+      "local": 1648977135375,
+      "remote": "Fri, 21 Sep 2018 11:55:20 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json",
+      "eTag": "W/\"4744-17dd637a764\"",
+      "hash": "d546f1707a3f2b7d034eece5ea2e311eda875787",
+      "local": 1649056038057,
+      "remote": "Mon, 20 Dec 2021 05:01:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7ecf376cdd6639df6a48430ddf9d8cd9784b6ece/sunjce_provider.jar",
+      "eTag": "\"70049626a96986f398f823ec19bc8058\"",
+      "hash": "7ecf376cdd6639df6a48430ddf9d8cd9784b6ece",
+      "local": 1648977137364,
+      "remote": "Fri, 21 Sep 2018 11:54:12 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/640c64cd380b27c9d647399032bde2bf82adb4d4/java-rmi.exe",
+      "eTag": "\"19c23a6d6a8566c4a88fabb469660662\"",
+      "hash": "640c64cd380b27c9d647399032bde2bf82adb4d4",
+      "local": 1648977127880,
+      "remote": "Fri, 21 Sep 2018 11:56:54 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2e84da8388a3dbb29b14920b636dfd9e55b70c6b/tzmappings",
+      "eTag": "\"4d172ae8d7a08bf3ef6e8afc285bec10\"",
+      "hash": "2e84da8388a3dbb29b14920b636dfd9e55b70c6b",
+      "local": 1648977128803,
+      "remote": "Fri, 21 Sep 2018 11:55:43 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/747bbdf0809b4f0449747edc2e65867a5a79d584/prism_sw.dll",
+      "eTag": "\"39e6138165b7789c9ff4e6652e22aa4d\"",
+      "hash": "747bbdf0809b4f0449747edc2e65867a5a79d584",
+      "local": 1648977133007,
+      "remote": "Fri, 21 Sep 2018 11:56:54 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0e2842d77356adadd9fe8605fb31567598157d91/j2pkcs11.dll",
+      "eTag": "\"eb22a8363efd453208eb72992b28ef57\"",
+      "hash": "0e2842d77356adadd9fe8605fb31567598157d91",
+      "local": 1648977128184,
+      "remote": "Fri, 21 Sep 2018 11:56:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/76e8b06b2b1073e3cb71c87b054c1f89120ff9ba/content-types.properties",
+      "eTag": "\"81b6b37647cbdf0f0f2b5980a52b45ec\"",
+      "hash": "76e8b06b2b1073e3cb71c87b054c1f89120ff9ba",
+      "local": 1648977133235,
+      "remote": "Fri, 21 Sep 2018 11:55:18 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a0c7617909ec7ca869366f35584d84f8164dda8a/meta-index",
+      "eTag": "\"abf890d35eae0d369a2d7df8632688a6\"",
+      "hash": "a0c7617909ec7ca869366f35584d84f8164dda8a",
+      "local": 1648977134806,
+      "remote": "Fri, 21 Sep 2018 11:55:42 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/970119f220de2590ab7e287a69476a12e41e17a6/net.dll",
+      "eTag": "\"7cb971534eebf9e4e0dff4a1d7c0fcb7\"",
+      "hash": "970119f220de2590ab7e287a69476a12e41e17a6",
+      "local": 1648977132400,
+      "remote": "Fri, 21 Sep 2018 11:56:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/12453d7420f2326c2f79549c7799413d1a00a524/profile.jfc",
+      "eTag": "\"9ea8bcc3d746add18be12f229648dbdd\"",
+      "hash": "12453d7420f2326c2f79549c7799413d1a00a524",
+      "local": 1648977135258,
+      "remote": "Fri, 21 Sep 2018 11:55:42 GMT"
+    },
+    {
+      "url": "https://archiva-maven-storage-prod.oss-cn-beijing.aliyuncs.com/repository/central/org/glavo/hmcl/hmcl-stable/3.5.3/hmcl-stable-3.5.3.jar?Expires\u003d1654227529\u0026OSSAccessKeyId\u003dLTAIfU51SusnnfCC\u0026Signature\u003dQnui5K5QTtaMx5vlThN4VMTAMa8%3D",
+      "eTag": "\"F4E2365F1F2AAD716322BDA7608BBC97\"",
+      "hash": "87123884a98404d1035d74b30723d218d31dc418",
+      "local": 1654223930524,
+      "remote": "Mon, 24 Jan 2022 04:55:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/81ac9734da8a9747bd78e33116e13cce0ffb7877/jsound.dll",
+      "eTag": "\"5d245fa551ad7a2b0ea20228ade6090d\"",
+      "hash": "81ac9734da8a9747bd78e33116e13cce0ffb7877",
+      "local": 1648977131071,
+      "remote": "Fri, 21 Sep 2018 11:56:48 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9ace0c65e2546bd2fb8f2997fdf77ad4a8ca853d/jfr.jar",
+      "eTag": "\"aa805d32644e022de7ea36474239820e\"",
+      "hash": "9ace0c65e2546bd2fb8f2997fdf77ad4a8ca853d",
+      "local": 1648977135503,
+      "remote": "Fri, 21 Sep 2018 11:55:47 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/238b8826e110f58acb2e1959773b0a577cd4d569/local_policy.jar",
+      "eTag": "\"57aaaa3176dc28fc554ef0906d01041a\"",
+      "hash": "238b8826e110f58acb2e1959773b0a577cd4d569",
+      "local": 1648977128409,
+      "remote": "Mon, 13 Aug 2018 12:56:36 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/382985f05e5311170245ad793c75083b21b5d8f0/awt.dll",
+      "eTag": "\"71b813057e81f0c635ebf76cd5b710b9\"",
+      "hash": "382985f05e5311170245ad793c75083b21b5d8f0",
+      "local": 1648977131071,
+      "remote": "Fri, 21 Sep 2018 11:56:29 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/350b100a9c48a12953505559d2ae4693a3085cdb/zip.dll",
+      "eTag": "\"08cfdf3daffc8e3b9f94e8fb511121a7\"",
+      "hash": "350b100a9c48a12953505559d2ae4693a3085cdb",
+      "local": 1648977132679,
+      "remote": "Fri, 21 Sep 2018 11:55:55 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/1e4ad02594c438d04972eaf81c3d36828ae8f28a/ssv.dll",
+      "eTag": "\"d0d92bc4bcd89d65b36d50fbe23a3789\"",
+      "hash": "1e4ad02594c438d04972eaf81c3d36828ae8f28a",
+      "local": 1648977131991,
+      "remote": "Fri, 21 Sep 2018 11:56:08 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7c28cdd8d9e34355ba0fc03004c4f64749cae57e/messages_it.properties",
+      "eTag": "\"e299b66925bf552d08375ad0bc23a150\"",
+      "hash": "7c28cdd8d9e34355ba0fc03004c4f64749cae57e",
+      "local": 1648977134860,
+      "remote": "Fri, 21 Sep 2018 11:55:41 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d6c39ba6f1bfd880cc43241bfe9d60880e92f5f8/orbd.exe",
+      "eTag": "\"62fff9342d333bd3aff222389639f59c\"",
+      "hash": "d6c39ba6f1bfd880cc43241bfe9d60880e92f5f8",
+      "local": 1648977134057,
+      "remote": "Fri, 21 Sep 2018 11:56:06 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/85d287594ab8f91dbcc4755b7db8d5e9877203dd/npdeployJava1.dll",
+      "eTag": "\"7c1f4c3e5fd4685ac91cc7aa3e7f918b\"",
+      "hash": "85d287594ab8f91dbcc4755b7db8d5e9877203dd",
+      "local": 1648977130787,
+      "remote": "Fri, 21 Sep 2018 11:56:50 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7d69ea3b385bc067738520f1b5c549e1084be285/US_export_policy.jar",
+      "eTag": "\"ee4ed9c75a1aaa04dfd192382c57900c\"",
+      "hash": "7d69ea3b385bc067738520f1b5c549e1084be285",
+      "local": 1648977129032,
+      "remote": "Mon, 13 Aug 2018 12:56:37 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/48fab2028fda39fb1c2f537db618b817df2c8a6c/prism_es2.dll",
+      "eTag": "\"defd4139308a4eecd21f6e0fbb13c63c\"",
+      "hash": "48fab2028fda39fb1c2f537db618b817df2c8a6c",
+      "local": 1648977131737,
+      "remote": "Fri, 21 Sep 2018 11:56:00 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/cf6d2c43407cb69c435b2905178801a03f2717f9/jfxmedia.dll",
+      "eTag": "\"4aa8ff263daaeae02a934ad25b685b89\"",
+      "hash": "cf6d2c43407cb69c435b2905178801a03f2717f9",
+      "local": 1648977128640,
+      "remote": "Fri, 21 Sep 2018 11:56:53 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a1d855402626f64941a42b44aa22ffa0e44e2bd7/jfxwebkit.dll",
+      "eTag": "\"c7326fd6d40687d08d928be4dbebeab0\"",
+      "hash": "a1d855402626f64941a42b44aa22ffa0e44e2bd7",
+      "local": 1648977131072,
+      "remote": "Fri, 21 Sep 2018 11:56:32 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6d6f7fd8b4869caa43d87ec60a7c80f399fab2b7/JavaAccessBridge-64.dll",
+      "eTag": "\"5c9ca71fe33ef93e980c659d82c0b2d9\"",
+      "hash": "6d6f7fd8b4869caa43d87ec60a7c80f399fab2b7",
+      "local": 1648977130394,
+      "remote": "Fri, 21 Sep 2018 11:56:06 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/642202a58e5216d086ad37c0b5a633be802edc78/logging.properties",
+      "eTag": "\"d7af2e226b1a157bb1c5b931d2224600\"",
+      "hash": "642202a58e5216d086ad37c0b5a633be802edc78",
+      "local": 1648977135436,
+      "remote": "Tue, 14 Aug 2018 13:12:16 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/1c0c9d400ef8b066a446d305328f7b5973e6a91f/rmiregistry.exe",
+      "eTag": "\"d5825f8872e51e8c7bbcbc2553991218\"",
+      "hash": "1c0c9d400ef8b066a446d305328f7b5973e6a91f",
+      "local": 1648977134233,
+      "remote": "Fri, 21 Sep 2018 11:56:32 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/cff745393b9045f644dc6276a5904d9f15aa86f7/klist.exe",
+      "eTag": "\"95a41566232a181e0202a1d233709bad\"",
+      "hash": "cff745393b9045f644dc6276a5904d9f15aa86f7",
+      "local": 1648977131074,
+      "remote": "Fri, 21 Sep 2018 11:55:59 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6ab4b1b61346ad87eed688395141f8b322cb663c/currency.data",
+      "eTag": "\"f3648798e3bba89ee9143f0d16b8492f\"",
+      "hash": "6ab4b1b61346ad87eed688395141f8b322cb663c",
+      "local": 1648977134987,
+      "remote": "Fri, 21 Sep 2018 11:55:21 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/995b86a908adb843c990366d90fba8cd20bf40b3/messages_pt_BR.properties",
+      "eTag": "\"b268f73195d62f9a31469bc4f0d672e8\"",
+      "hash": "995b86a908adb843c990366d90fba8cd20bf40b3",
+      "local": 1648977134371,
+      "remote": "Fri, 21 Sep 2018 11:55:38 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/363b36f733eae57a54c608096626757b521acf20/javafx.properties",
+      "eTag": "\"e57fce4e57f292bfae09c6de315d0b03\"",
+      "hash": "363b36f733eae57a54c608096626757b521acf20",
+      "local": 1648977136022,
+      "remote": "Fri, 21 Sep 2018 11:53:27 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/303931b253b8d6d2ae8ec343e693f38331330e18/fontconfig.properties.src",
+      "eTag": "\"c9709089ccbaefbd8afa00819de2e61d\"",
+      "hash": "303931b253b8d6d2ae8ec343e693f38331330e18",
+      "local": 1648977136513,
+      "remote": "Fri, 21 Sep 2018 11:55:42 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0e6009e763348c8b6f8afe6dda7198a2318cad0d/jdwp.dll",
+      "eTag": "\"e40bd2c96e1af3cbe09668d1bf96e633\"",
+      "hash": "0e6009e763348c8b6f8afe6dda7198a2318cad0d",
+      "local": 1648977130159,
+      "remote": "Fri, 21 Sep 2018 11:56:49 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/ba65adc373ef419d3e4559e3cbe943ee8dc55e6a/lcms.dll",
+      "eTag": "\"1b396a6e7b83201e11d51f642aa93f93\"",
+      "hash": "ba65adc373ef419d3e4559e3cbe943ee8dc55e6a",
+      "local": 1648977131074,
+      "remote": "Fri, 21 Sep 2018 11:56:43 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/23039573fa2d3cef22e6dd607817e2fabc8f521c/dt_shmem.dll",
+      "eTag": "\"05919f57bb6c8839a0651a3e96a4b51e\"",
+      "hash": "23039573fa2d3cef22e6dd607817e2fabc8f521c",
+      "local": 1648977127880,
+      "remote": "Fri, 21 Sep 2018 11:56:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/56a0869afd2ba3fd87f81426ac8c43a46f365e6f/javaw.exe",
+      "eTag": "\"2d289dbf0c8f18e55ca526ed5f0d5138\"",
+      "hash": "56a0869afd2ba3fd87f81426ac8c43a46f365e6f",
+      "local": 1648977130325,
+      "remote": "Fri, 21 Sep 2018 11:56:55 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4b3843cbd4f112a90d112a37957684c843d68e83/win32_LinkDrop32x32.gif",
+      "eTag": "\"694a59efde0648f49fa448a46c4d8948\"",
+      "hash": "4b3843cbd4f112a90d112a37957684c843d68e83",
+      "local": 1648977136096,
+      "remote": "Fri, 21 Sep 2018 11:54:33 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/efbe36d768fda24fe67fb8e207be57b6b907b2df/glass.dll",
+      "eTag": "\"9e08ccc5602d0e88d71b69dec7f36a7a\"",
+      "hash": "efbe36d768fda24fe67fb8e207be57b6b907b2df",
+      "local": 1648977130231,
+      "remote": "Fri, 21 Sep 2018 11:56:14 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4ddb24eef05322196024847cce741858623ff73e/nio.dll",
+      "eTag": "\"a345036a3eb57863c36908bf912fedd0\"",
+      "hash": "4ddb24eef05322196024847cce741858623ff73e",
+      "local": 1648977131870,
+      "remote": "Fri, 21 Sep 2018 11:56:44 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e9c4d7754f913e32b4e958f165b89f4394a049cf/localedata.jar",
+      "eTag": "\"944c00ed481660573088d19ed870105a\"",
+      "hash": "e9c4d7754f913e32b4e958f165b89f4394a049cf",
+      "local": 1648977137163,
+      "remote": "Fri, 21 Sep 2018 11:53:59 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/403ad130c3592869465a406f72d01e8f84b14928/management.dll",
+      "eTag": "\"c2cdea52065ff5a24bd24481bef5a2cb\"",
+      "hash": "403ad130c3592869465a406f72d01e8f84b14928",
+      "local": 1648977131153,
+      "remote": "Fri, 21 Sep 2018 11:56:05 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7f2cd4550cd1d0fb404ab3a802ea1e863b655cf3/WindowsAccessBridge-64.dll",
+      "eTag": "\"5d4429cd8a62293d58ee51d86bd58433\"",
+      "hash": "7f2cd4550cd1d0fb404ab3a802ea1e863b655cf3",
+      "local": 1648977130570,
+      "remote": "Fri, 21 Sep 2018 11:56:47 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/198a665395550a9eacb2722fb7ee8227f4930d32/Xusage.txt",
+      "eTag": "\"310215b550d1db2f1af0abb765dea18e\"",
+      "hash": "198a665395550a9eacb2722fb7ee8227f4930d32",
+      "local": 1648977132823,
+      "remote": "Fri, 21 Sep 2018 11:56:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0024f580bed97c90b41a776e870e769d9e10c6ff/THIRDPARTYLICENSEREADME.txt",
+      "eTag": "\"e0a02dda23e88bb18f4b466f422a0515\"",
+      "hash": "0024f580bed97c90b41a776e870e769d9e10c6ff",
+      "local": 1648977129309,
+      "remote": "Fri, 21 Sep 2018 11:55:17 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2d8dee07e3f5aab7318a22e169810b216ac44f97/messages_fr.properties",
+      "eTag": "\"3c0ead22c0e0bec9ff9b86a60461de9a\"",
+      "hash": "2d8dee07e3f5aab7318a22e169810b216ac44f97",
+      "local": 1648977134806,
+      "remote": "Fri, 21 Sep 2018 11:55:41 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/079b16dc3c4918ab1f4f760b6dc5e6586c219042/LucidaSansDemiBold.ttf",
+      "eTag": "\"3ef50ceca49294d78564f956621bf686\"",
+      "hash": "079b16dc3c4918ab1f4f760b6dc5e6586c219042",
+      "local": 1648977136513,
+      "remote": "Tue, 14 Aug 2018 13:13:03 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/3e86865deec0814c958bcf7fb87f790bccc0e8bd/LICENSE",
+      "eTag": "\"98f46ab6481d87c4d77e0e91a6dbc15f\"",
+      "hash": "3e86865deec0814c958bcf7fb87f790bccc0e8bd",
+      "local": 1648977131010,
+      "remote": "Mon, 13 Aug 2018 12:34:38 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/b601c420d02ef3dbd8595453d08fdef91134e8b5/java.policy",
+      "eTag": "\"2491afab2c30fdb7eb11945c6aefc44c\"",
+      "hash": "b601c420d02ef3dbd8595453d08fdef91134e8b5",
+      "local": 1648977129162,
+      "remote": "Tue, 14 Aug 2018 13:12:49 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/2860ae2a79e1e3bab8ed2808b3bd03c524260445/kcms.dll",
+      "eTag": "\"7f4cea5af82a267e33b0e7293eb694d3\"",
+      "hash": "2860ae2a79e1e3bab8ed2808b3bd03c524260445",
+      "local": 1648977131087,
+      "remote": "Fri, 21 Sep 2018 11:56:10 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/v1/packages/f6ad102bcaa53b1a58358f16e376d548d44933ec/1.8.json",
+      "eTag": "W/\"1329e-176b77dbdfb\"",
+      "hash": "f6ad102bcaa53b1a58358f16e376d548d44933ec",
+      "local": 1649055984131,
+      "remote": "Thu, 31 Dec 2020 06:30:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8206fce6c1d91a39fdf78e8e79e953913994a1cd/blacklist",
+      "eTag": "\"a80186b5aa8cbc6e08a16c5540904006\"",
+      "hash": "8206fce6c1d91a39fdf78e8e79e953913994a1cd",
+      "local": 1648977129776,
+      "remote": "Tue, 14 Aug 2018 13:12:46 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f169851343fce3bcdc5fd267a0c55ac894c2e25d/unpack.dll",
+      "eTag": "\"e5ffdafe88666a989006f7890a951c8e\"",
+      "hash": "f169851343fce3bcdc5fd267a0c55ac894c2e25d",
+      "local": 1648977131189,
+      "remote": "Fri, 21 Sep 2018 11:56:46 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d27d1398edad109e499d5e419b2034748ee0e786/access-bridge-64.jar",
+      "eTag": "\"c29c5ce0afb0c7dc8eae4fe4920f0b92\"",
+      "hash": "d27d1398edad109e499d5e419b2034748ee0e786",
+      "local": 1648977134674,
+      "remote": "Fri, 21 Sep 2018 11:54:15 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/5388ccfe67d3131d6d02143d8e8895003ab14ff6/GRAY.pf",
+      "eTag": "\"aefcea4a6407a08011dd5cbce86f6d08\"",
+      "hash": "5388ccfe67d3131d6d02143d8e8895003ab14ff6",
+      "local": 1648977131729,
+      "remote": "Tue, 14 Aug 2018 13:13:25 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8600a8e73e559f363e1477545bbcdd27b5157e6d/flavormap.properties",
+      "eTag": "\"a0d793be6cd9dd8fcf9d934d1f176515\"",
+      "hash": "8600a8e73e559f363e1477545bbcdd27b5157e6d",
+      "local": 1648977136649,
+      "remote": "Fri, 21 Sep 2018 11:55:19 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/da39a3ee5e6b4b0d3255bfef95601890afd80709/trusted.libraries",
+      "eTag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "local": 1648977128122,
+      "remote": "Mon, 13 Aug 2018 12:56:36 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/1a79e1c3530d1905e8317a9ce52d5dc37a97cb87/jp2ssv.dll",
+      "eTag": "\"59953967104e94cedc9121668627e966\"",
+      "hash": "1a79e1c3530d1905e8317a9ce52d5dc37a97cb87",
+      "local": 1648977129835,
+      "remote": "Fri, 21 Sep 2018 11:55:58 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/maven/com/optifine/1.8.9/OptiFine_1.8.9_HD_U_H6.jar",
+      "eTag": "\"5e3d8f48-1a5439\"",
+      "hash": "2636689b31810896cf80493f6fc4d8c1783048ea",
+      "local": 1648976829869,
+      "remote": "Fri, 07 Feb 2020 16:24:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/1333f489ac0506d7dc98656a515feeb6e87e27f9/win32_MoveDrop32x32.gif",
+      "eTag": "\"cc8dd9ab7ddf6efa2f3b8bcfa31115c0\"",
+      "hash": "1333f489ac0506d7dc98656a515feeb6e87e27f9",
+      "local": 1648977135672,
+      "remote": "Fri, 21 Sep 2018 11:54:34 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9a05464a8799e3fb6d6dadfaf5c47a6e42d35e80/tzdb.dat",
+      "eTag": "\"3fd9202e22bd30951e1bf5d9bbe94239\"",
+      "hash": "9a05464a8799e3fb6d6dadfaf5c47a6e42d35e80",
+      "local": 1648977130789,
+      "remote": "Fri, 21 Sep 2018 11:55:38 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e8d0e3a63caa2535a4f361033941f34dcc170a7e/messages_zh_TW.properties",
+      "eTag": "\"d52e131eee4d65aa6ff53b7638b2b278\"",
+      "hash": "e8d0e3a63caa2535a4f361033941f34dcc170a7e",
+      "local": 1648977134309,
+      "remote": "Fri, 21 Sep 2018 11:55:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/349148c3fc775a35b91b447a260b07ab62bc676f/jli.dll",
+      "eTag": "\"7d535644ff86f4e19a765ce2867eb793\"",
+      "hash": "349148c3fc775a35b91b447a260b07ab62bc676f",
+      "local": 1648977131073,
+      "remote": "Fri, 21 Sep 2018 11:56:26 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4c517b0332501940a54306743c233c6e5e15d2b2/sunmscapi.jar",
+      "eTag": "\"352d3349bc9293814990a1579062c575\"",
+      "hash": "4c517b0332501940a54306743c233c6e5e15d2b2",
+      "local": 1648977137011,
+      "remote": "Fri, 21 Sep 2018 11:54:02 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c29c1f37a2148b50a343db1a4aa9eb0512f80749/accessibility.properties",
+      "eTag": "\"9e5e954bc0e625a69a0a430e80dcf724\"",
+      "hash": "c29c1f37a2148b50a343db1a4aa9eb0512f80749",
+      "local": 1648977132109,
+      "remote": "Fri, 21 Sep 2018 11:54:34 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8c631dd0aca739f1dcdc39c05b2e0ecd5fc62989/sunec.dll",
+      "eTag": "\"34014b7aa14676f08ec8069b32ae1337\"",
+      "hash": "8c631dd0aca739f1dcdc39c05b2e0ecd5fc62989",
+      "local": 1648977133543,
+      "remote": "Fri, 21 Sep 2018 11:55:50 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6d30055d0433c66d7a7abcab2fdc65c0323c78a1/resources.jar",
+      "eTag": "\"7370854a1e90fe6aafe4ade95d450018\"",
+      "hash": "6d30055d0433c66d7a7abcab2fdc65c0323c78a1",
+      "local": 1648977133726,
+      "remote": "Fri, 21 Sep 2018 11:55:38 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/121e5d017acbfaed2649d57513df0a6b35dd48f3/COPYRIGHT",
+      "eTag": "\"7485374636105bd97dad26cca0a28a1e\"",
+      "hash": "121e5d017acbfaed2649d57513df0a6b35dd48f3",
+      "local": 1648977129088,
+      "remote": "Fri, 21 Sep 2018 11:55:49 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6334089c47557fd7fadd9582f3c15f6015745407/unpack200.exe",
+      "eTag": "\"ef54212e2578477f9a0d19d1b743ddf6\"",
+      "hash": "6334089c47557fd7fadd9582f3c15f6015745407",
+      "local": 1648977131574,
+      "remote": "Fri, 21 Sep 2018 11:56:47 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a9d753d6e9d60c7aeac9f9df190a5355b4653f37/messages_ko.properties",
+      "eTag": "\"49587738bf0ed105171e4f920faaf9ff\"",
+      "hash": "a9d753d6e9d60c7aeac9f9df190a5355b4653f37",
+      "local": 1648977134615,
+      "remote": "Fri, 21 Sep 2018 11:55:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/556c64b1e920766f8867be3964de6e49f5b81a60/jmxremote.password.template",
+      "eTag": "\"a113b4dd1f55897d5b8df81b2e5032b2\"",
+      "hash": "556c64b1e920766f8867be3964de6e49f5b81a60",
+      "local": 1648977136575,
+      "remote": "Tue, 14 Aug 2018 13:12:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/1f3893b8f54710c860a70131c8ade856e09fbd3f/rmid.exe",
+      "eTag": "\"c4ff35987034dcf3a70f64ce9c29d450\"",
+      "hash": "1f3893b8f54710c860a70131c8ade856e09fbd3f",
+      "local": 1648977132918,
+      "remote": "Fri, 21 Sep 2018 11:55:57 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/436cc66b9557d921d9acd2a28c1e2d8cd0873ab2/dt_socket.dll",
+      "eTag": "\"5f9150f985d4e4219ae26fd26e5ef7fe\"",
+      "hash": "436cc66b9557d921d9acd2a28c1e2d8cd0873ab2",
+      "local": 1648977129776,
+      "remote": "Fri, 21 Sep 2018 11:55:53 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/14083b3202acde5672b3854b1c781da3dbe916ae/jp2iexp.dll",
+      "eTag": "\"1ad2e2fdbb72c474724ac8ea03e32b5c\"",
+      "hash": "14083b3202acde5672b3854b1c781da3dbe916ae",
+      "local": 1648977130049,
+      "remote": "Fri, 21 Sep 2018 11:56:09 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/cac18b82ce0dcfa1a06bf8827c1c4447852510fe/javacpl.cpl",
+      "eTag": "\"fa249198adbe3b128033d7c5ac6df16a\"",
+      "hash": "cac18b82ce0dcfa1a06bf8827c1c4447852510fe",
+      "local": 1648977129834,
+      "remote": "Fri, 21 Sep 2018 11:56:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f8a2a306d4863cbae5c7f3efd8d3aded4f5a31c9/tnameserv.exe",
+      "eTag": "\"80f4adab616aaa781b5222621e34475d\"",
+      "hash": "f8a2a306d4863cbae5c7f3efd8d3aded4f5a31c9",
+      "local": 1648977131581,
+      "remote": "Fri, 21 Sep 2018 11:56:45 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d18348776e4fbf605653afc7a070a2e5f1ba905f/fontconfig.bfc",
+      "eTag": "\"08a8a16d7c1623b4cb6ed3f66a995dd1\"",
+      "hash": "d18348776e4fbf605653afc7a070a2e5f1ba905f",
+      "local": 1648977137024,
+      "remote": "Fri, 21 Sep 2018 11:55:35 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/7ca1cc244ed251cd1eb2347f1eea37d7d18c8ad4/psfont.properties.ja",
+      "eTag": "\"e10af2cdff681dbefeb9d06ec29bd9cc\"",
+      "hash": "7ca1cc244ed251cd1eb2347f1eea37d7d18c8ad4",
+      "local": 1648977133601,
+      "remote": "Tue, 14 Aug 2018 13:12:18 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/bccfe5cfbbf0791e752754b964313f9079f748bf/jce.jar",
+      "eTag": "\"df21aa9a2da9f94763bdcc80f07c9afd\"",
+      "hash": "bccfe5cfbbf0791e752754b964313f9079f748bf",
+      "local": 1648977135636,
+      "remote": "Fri, 21 Sep 2018 11:54:46 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/73656681a115a456fc47072a016777b20ce0bdd6/j2pcsc.dll",
+      "eTag": "\"f1d2083ba6d8901f2efe79d4829156d2\"",
+      "hash": "73656681a115a456fc47072a016777b20ce0bdd6",
+      "local": 1648977128474,
+      "remote": "Fri, 21 Sep 2018 11:56:35 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4252fa01af8739a3545e2b705e3383892e22ab40/psfontj2d.properties",
+      "eTag": "\"a4aa0f853a08dc865ecb998e90772dfa\"",
+      "hash": "4252fa01af8739a3545e2b705e3383892e22ab40",
+      "local": 1648977132822,
+      "remote": "Tue, 14 Aug 2018 13:12:18 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e410af1c6a77c709298cdae4dd3e4fb61e0fca86/ffjcext.zip",
+      "eTag": "\"0a0143afa58aa56e185ccc5892f43ed7\"",
+      "hash": "e410af1c6a77c709298cdae4dd3e4fb61e0fca86",
+      "local": 1648977134863,
+      "remote": "Fri, 21 Sep 2018 11:55:40 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/0b3a14a7974b32c12e29e02b3e7e57ba71877b87/jp2native.dll",
+      "eTag": "\"fee665ed34b583ae42438f7ef6dba3d4\"",
+      "hash": "0b3a14a7974b32c12e29e02b3e7e57ba71877b87",
+      "local": 1648977127927,
+      "remote": "Fri, 21 Sep 2018 11:56:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8344ccf3c6d18e85ff6f7f2fc7cc3c52a4ef6525/dnsns.jar",
+      "eTag": "\"afe6e1a4176d639129449121e45de3fb\"",
+      "hash": "8344ccf3c6d18e85ff6f7f2fc7cc3c52a4ef6525",
+      "local": 1648977134387,
+      "remote": "Fri, 21 Sep 2018 11:54:10 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d8eb806cf252dc248236dc23d79b3e49b1f4b19d/cacerts",
+      "eTag": "\"7f51fccef8ee438c5a1ae7b497374339\"",
+      "hash": "d8eb806cf252dc248236dc23d79b3e49b1f4b19d",
+      "local": 1648977129970,
+      "remote": "Tue, 14 Aug 2018 13:12:48 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/259edc45b4569427e8319895a444f4295d54348f/invalid32x32.gif",
+      "eTag": "\"1e9d8f133a442da6b0c74d49bc84a341\"",
+      "hash": "259edc45b4569427e8319895a444f4295d54348f",
+      "local": 1648977135854,
+      "remote": "Mon, 13 Aug 2018 12:56:50 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/bc7c3a81f2f973c712b6a9b9ee6671569af3a5d3/javaws.jar",
+      "eTag": "\"e9f747160dbc819c4bcb9c6eb13c5350\"",
+      "hash": "bc7c3a81f2f973c712b6a9b9ee6671569af3a5d3",
+      "local": 1648977135854,
+      "remote": "Fri, 21 Sep 2018 11:54:36 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/5a7cf98232798a000d939c2315d335b166557b38/sunpkcs11.jar",
+      "eTag": "\"60e972a0420e4bd8a23c18cdb52eec41\"",
+      "hash": "5a7cf98232798a000d939c2315d335b166557b38",
+      "local": 1648977134057,
+      "remote": "Fri, 21 Sep 2018 11:54:05 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f1283f23951a4a7a0d1e4371c03d3efa82644223/bci.dll",
+      "eTag": "\"272002b44b4f0d639a96334414c29544\"",
+      "hash": "f1283f23951a4a7a0d1e4371c03d3efa82644223",
+      "local": 1648977129369,
+      "remote": "Fri, 21 Sep 2018 11:56:32 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/8f0a318a1a294ef164a48198a0ee9f38524ebeb5/fontmanager.dll",
+      "eTag": "\"4a31294c85e677c46b999d2e249c5bbf\"",
+      "hash": "8f0a318a1a294ef164a48198a0ee9f38524ebeb5",
+      "local": 1648977128714,
+      "remote": "Fri, 21 Sep 2018 11:56:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/f4efbb07fe3c760a10e622abaf8fd9c933f068d5/resource.dll",
+      "eTag": "\"f71d00b7d28a3109990138bd8464ae4d\"",
+      "hash": "f4efbb07fe3c760a10e622abaf8fd9c933f068d5",
+      "local": 1648977132687,
+      "remote": "Fri, 21 Sep 2018 11:56:53 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/aeda4a09a53783b0dc97de8e20071bea874cbfe5/LucidaTypewriterRegular.ttf",
+      "eTag": "\"e70fa15a22fcf81c25f7e899ca09b024\"",
+      "hash": "aeda4a09a53783b0dc97de8e20071bea874cbfe5",
+      "local": 1648977135745,
+      "remote": "Tue, 14 Aug 2018 13:13:06 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/dbb2197ecff3fcdd142e9006490c8cb5c8d19af8/PYCC.pf",
+      "eTag": "\"7d91663192f4f8e8068e669e025ba59b\"",
+      "hash": "dbb2197ecff3fcdd142e9006490c8cb5c8d19af8",
+      "local": 1648977133601,
+      "remote": "Tue, 14 Aug 2018 13:13:26 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1758/forge-1.8.9-11.15.1.1758-installer.jar",
+      "eTag": "\"6204aa7c-42e3ed\"",
+      "hash": "d027353eaf261dbbb9999eea648911d62ad17321",
+      "local": 1648976833014,
+      "remote": "Thu, 10 Feb 2022 06:02:36 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/5fffc7a3efae92e52006da33962101b8d09b6edd/THIRDPARTYLICENSEREADME-JAVAFX.txt",
+      "eTag": "\"555f109cb64443f9cc80ea0b0ea86e95\"",
+      "hash": "5fffc7a3efae92e52006da33962101b8d09b6edd",
+      "local": 1648977130633,
+      "remote": "Tue, 14 Aug 2018 13:10:51 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/282712eb9d662e1c90ee9c7263025d7eecec1505/dcpr.dll",
+      "eTag": "\"a884f1c8522a9e822c61b6eabe25a530\"",
+      "hash": "282712eb9d662e1c90ee9c7263025d7eecec1505",
+      "local": 1648977130467,
+      "remote": "Fri, 21 Sep 2018 11:56:47 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/4b2e31aaec2238b6ecf9f845bad0a1c6d09fbbfe/LucidaBrightRegular.ttf",
+      "eTag": "\"33adc3341a08ffd0866e29ef88f4a6ae\"",
+      "hash": "4b2e31aaec2238b6ecf9f845bad0a1c6d09fbbfe",
+      "local": 1648977137271,
+      "remote": "Tue, 14 Aug 2018 13:13:01 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/c4a653e9802ca982e892b45d88c1e259c09e8c8e/messages_es.properties",
+      "eTag": "\"91e6b9af137f92584a37c897e2977def\"",
+      "hash": "c4a653e9802ca982e892b45d88c1e259c09e8c8e",
+      "local": 1648977132467,
+      "remote": "Fri, 21 Sep 2018 11:55:39 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e42c301220ff2f1bb9674bee07ce78faca703b11/jaccess.jar",
+      "eTag": "\"fa6246ba92a7e2474addf23ce1777b2a\"",
+      "hash": "e42c301220ff2f1bb9674bee07ce78faca703b11",
+      "local": 1648977134524,
+      "remote": "Fri, 21 Sep 2018 11:54:22 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/3a5abb7d3635df595abbf4cfdb39baa7ba2089ef/npt.dll",
+      "eTag": "\"abd59e07bf1e0f08a2c9b617fa0762a4\"",
+      "hash": "3a5abb7d3635df595abbf4cfdb39baa7ba2089ef",
+      "local": 1648977131153,
+      "remote": "Fri, 21 Sep 2018 11:55:56 GMT"
+    },
+    {
+      "url": "https://bmclapi2.bangbang93.com/v1/packages/690172f1227e1c1d2fa8fceadd0f578f7851a69e/1.8.8.json",
+      "eTag": "W/\"4743-17dd6387dde\"",
+      "hash": "690172f1227e1c1d2fa8fceadd0f578f7851a69e",
+      "local": 1649055983880,
+      "remote": "Mon, 20 Dec 2021 05:02:46 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/384702ba4d2e912dd4682bf4fe634d3e21a5ebe2/jjs.exe",
+      "eTag": "\"1da0e253f0a57330e785f35242634311\"",
+      "hash": "384702ba4d2e912dd4682bf4fe634d3e21a5ebe2",
+      "local": 1648977131072,
+      "remote": "Fri, 21 Sep 2018 11:56:48 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d28c7c1cc8c41944bff0b67509d05623994d4f55/jpeg.dll",
+      "eTag": "\"a973ec1127255c9d760204c831bae1de\"",
+      "hash": "d28c7c1cc8c41944bff0b67509d05623994d4f55",
+      "local": 1648977131073,
+      "remote": "Fri, 21 Sep 2018 11:56:17 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a42eb89b5235b99bbaf1acb7f7a61a1c48a85bf5/wsdetect.dll",
+      "eTag": "\"cf1217acb4702ca71bad9f3ef5c646be\"",
+      "hash": "a42eb89b5235b99bbaf1acb7f7a61a1c48a85bf5",
+      "local": 1648977132400,
+      "remote": "Fri, 21 Sep 2018 11:56:30 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/34a52eef735d6ad0c0f6d7ab0dd82f81ea505aa9/rt.jar",
+      "eTag": "\"de88458e90e4e98f831725a6e5c6a028-2\"",
+      "hash": "34a52eef735d6ad0c0f6d7ab0dd82f81ea505aa9",
+      "local": 1648977133896,
+      "remote": "Fri, 21 Sep 2018 11:56:22 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/6d630df719271319c3d53f90a3d425118b908266/LucidaBrightItalic.ttf",
+      "eTag": "\"09837525b614916115bb878d121e465d\"",
+      "hash": "6d630df719271319c3d53f90a3d425118b908266",
+      "local": 1648977136229,
+      "remote": "Tue, 14 Aug 2018 13:13:00 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/02c7cbc91be8580b77525795a50695b628060fd1/mlib_image.dll",
+      "eTag": "\"5b9ce6fdb1c7226678ab354fb43e838e\"",
+      "hash": "02c7cbc91be8580b77525795a50695b628060fd1",
+      "local": 1648977132246,
+      "remote": "Fri, 21 Sep 2018 11:55:54 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/a91fa4718a34f92ee8a85380b36fa91e18b5ac8f/net.properties",
+      "eTag": "\"7437385da01979e00a77c75597a6614d\"",
+      "hash": "a91fa4718a34f92ee8a85380b36fa91e18b5ac8f",
+      "local": 1648977132552,
+      "remote": "Tue, 14 Aug 2018 13:12:17 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9e838d8643daa3ccc29a24c257ebea63e118a13f/ktab.exe",
+      "eTag": "\"3bd6de2c8ea122186f8ec8ba31b79da5\"",
+      "hash": "9e838d8643daa3ccc29a24c257ebea63e118a13f",
+      "local": 1648977131074,
+      "remote": "Fri, 21 Sep 2018 11:56:37 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/efba832711601b86bcb4bc2be6f7d9351b50a86e/java_crw_demo.dll",
+      "eTag": "\"d09d3d8f7d25fc7380b8d62ce30eb1d8\"",
+      "hash": "efba832711601b86bcb4bc2be6f7d9351b50a86e",
+      "local": 1648977128041,
+      "remote": "Fri, 21 Sep 2018 11:56:16 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/d146d28492aeb17f2c8f84f05e456f607164a98a/jfr.dll",
+      "eTag": "\"2981fc75bdcaaa5175f4e704fc63ef04\"",
+      "hash": "d146d28492aeb17f2c8f84f05e456f607164a98a",
+      "local": 1648977129660,
+      "remote": "Fri, 21 Sep 2018 11:56:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/20175a4af14c9c162eed8452b59df475b278ffb1/javafx_font.dll",
+      "eTag": "\"489e695917ff736418d66af7c28029cc\"",
+      "hash": "20175a4af14c9c162eed8452b59df475b278ffb1",
+      "local": 1648977128474,
+      "remote": "Fri, 21 Sep 2018 11:55:56 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/e7ac59e1e8442bde83cb81b13b03bd9c2be1fe35/cldrdata.jar",
+      "eTag": "\"ac5eb85f5063095db364508d2c193b8c\"",
+      "hash": "e7ac59e1e8442bde83cb81b13b03bd9c2be1fe35",
+      "local": 1648977134737,
+      "remote": "Fri, 21 Sep 2018 11:53:53 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/71623e1f584ced8673b30f14b874e59ed0ac72a8/jaas_nt.dll",
+      "eTag": "\"aae665fdcc548bfa043cd7b610773d33\"",
+      "hash": "71623e1f584ced8673b30f14b874e59ed0ac72a8",
+      "local": 1648977129369,
+      "remote": "Fri, 21 Sep 2018 11:56:37 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/9a4aa6396c3b488b0663bed5e5ecb762985669c9/snmp.acl.template",
+      "eTag": "\"5e1210423b9251c684595e9a2ff96e2e\"",
+      "hash": "9a4aa6396c3b488b0663bed5e5ecb762985669c9",
+      "local": 1648977134524,
+      "remote": "Tue, 14 Aug 2018 13:12:52 GMT"
+    },
+    {
+      "url": "https://launcher.mojang.com/v1/objects/eb752ebeeb043e9fc0cd461bef244f00df52c1b9/hprof.dll",
+      "eTag": "\"9be861733de4c0fd2a48a482502fa455\"",
+      "hash": "eb752ebeeb043e9fc0cd461bef244f00df52c1b9",
+      "local": 1648977129219,
+      "remote": "Fri, 21 Sep 2018 11:56:47 GMT"
+    }
+  ]
+}

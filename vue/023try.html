@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<ul id="qw">
+			<li
+				v-for="w in q"
+			>
+				{{ w.url }}
+			</li>
+		</ul>
+	</body>
+	<script>
+		var vm = new Vue({
+			el: '#qw',
+			data: {
+				q:[]
+			},
+			created(){
+				fetch('js/etag.json')
+				.then(response => response.json())
+				.then(json =>{
+					this.q = json.eTag
+				})
+			}
+		})
+	</script>
+</html>

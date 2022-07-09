@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+		<style>
+			.slide-fade-enter-active {
+			  transition: all .3s ease;
+			}
+			.slide-fade-leave-active {
+			  transition: all .3s;
+			}
+			.slide-fade-enter, .slide-fade-leave-to
+			/* .slide-fade-leave-active for below version 2.1.8 */ {
+			  transform: translateX(-100px);
+			  opacity: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="ll">
+			<button @click = "qqq=!qqq">
+				ss
+			</button>
+			<transition name= "slide-fade">
+			<div v-if="qqq">ddsg</div>
+		</transition>
+		</div>
+		
+	</body>
+	<script>
+		var vm = new Vue({
+			el: '#ll',
+			data: {
+				qqq: true
+			}
+		})
+	</script>
+</html>

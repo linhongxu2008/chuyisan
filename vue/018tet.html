@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div id="sf" >
+			<div :style="{fontSize: font + 'em'}">
+				<dsds
+				 @dsf="font+=0.05"
+				>
+					
+				</dsds>
+			</div>
+		</div>
+		<script>
+			Vue.component("dsds",{
+				template: `	<div><button @click= "$emit('dsf')">
+					dsf
+				</button>
+				<span>sf</span></div>`
+			})
+			var  vm  =new Vue({
+				el: '#sf',
+				data: {
+					font: 1,
+					ddf: 'fsf'
+				}
+			})
+		</script>
+	</body>
+</html>

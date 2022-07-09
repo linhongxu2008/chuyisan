@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div
+		  class="static"
+		  v-bind:class="{ active: isActive, danger: hasError }"
+		></div>
+	</body>
+	<script>
+		var vm = new Vue({
+				el: '.static',
+		data: {
+		  isActive: true,
+		  hasError: true
+		}
+		})
+		
+	</script>
+</html>

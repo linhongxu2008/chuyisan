@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div id="q">
+			{{qu}}
+			<div>
+				{{ans}}
+			</div>
+		</div>
+	</body>
+	<script>
+		var vm = new Vue({
+			el: '#q',
+			data:{
+				qu: 'ddd',
+				ans: 'dsds'
+			},
+			watch: {
+				qu: function(){
+					this.ans = this.qu + "" + this.ans
+				}
+			}
+		})
+	</script>
+</html>

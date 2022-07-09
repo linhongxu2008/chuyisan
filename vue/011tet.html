@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/v3.2.8/vue.js"></script>
+	</head>
+	<body>
+		<div id="ddf">
+			{{ddds}}
+			<div>
+				{{ddddds}}
+			</div>
+		</div>
+	</body>
+	<script>
+		var vm = new Vue({
+			el: '#ddf',
+			data:{
+				ddds: "ddsdsd"
+			},
+			computed: {
+				ddddds:	function() {
+					return this.ddds; 
+				}
+			},
+		})
+	</script>
+</html>
